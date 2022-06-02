@@ -1,0 +1,74 @@
+D:\VSProjects\SiakadSederhana\SiakadSederhana\bin\Debug\SiakadSederhana.exe.config
+D:\VSProjects\SiakadSederhana\SiakadSederhana\bin\Debug\SiakadSederhana.exe
+D:\VSProjects\SiakadSederhana\SiakadSederhana\bin\Debug\SiakadSederhana.pdb
+D:\VSProjects\SiakadSederhana\SiakadSederhana\obj\Debug\SiakadSederhana.csproj.AssemblyReference.cache
+D:\VSProjects\SiakadSederhana\SiakadSederhana\obj\Debug\SiakadSederhana.Form1.resources
+D:\VSProjects\SiakadSederhana\SiakadSederhana\obj\Debug\SiakadSederhana.FormMahasiswa.resources
+D:\VSProjects\SiakadSederhana\SiakadSederhana\obj\Debug\SiakadSederhana.Properties.Resources.resources
+D:\VSProjects\SiakadSederhana\SiakadSederhana\obj\Debug\SiakadSederhana.csproj.GenerateResource.cache
+D:\VSProjects\SiakadSederhana\SiakadSederhana\obj\Debug\SiakadSederhana.csproj.CoreCompileInputs.cache
+D:\VSProjects\SiakadSederhana\SiakadSederhana\obj\Debug\SiakadSederhana.exe
+D:\VSProjects\SiakadSederhana\SiakadSederhana\obj\Debug\SiakadSederhana.pdb
+D:\VSProjects\SiakadSederhana\SiakadSederhana\obj\Debug\SiakadSederhana.FormTambahMahasiswa.resources
+D:\VSProjects\SiakadSederhana\SiakadSederhana\obj\Debug\SiakadSederhana.FormMataKuliah.resources
+D:\VSProjects\SiakadSederhana\SiakadSederhana\obj\Debug\SiakadSederhana.FormTambahMataKuliah.resources
+D:\Data PBO\SiakadSederhana\SiakadSederhana\bin\Debug\SiakadSederhana.exe.config
+D:\Data PBO\SiakadSederhana\SiakadSederhana\bin\Debug\SiakadSederhana.exe
+D:\Data PBO\SiakadSederhana\SiakadSederhana\bin\Debug\SiakadSederhana.pdb
+D:\Data PBO\SiakadSederhana\SiakadSederhana\obj\Debug\SiakadSederhana.csproj.AssemblyReference.cache
+D:\Data PBO\SiakadSederhana\SiakadSederhana\obj\Debug\SiakadSederhana.Form1.resources
+D:\Data PBO\SiakadSederhana\SiakadSederhana\obj\Debug\SiakadSederhana.FormMahasiswa.resources
+D:\Data PBO\SiakadSederhana\SiakadSederhana\obj\Debug\SiakadSederhana.FormMataKuliah.resources
+D:\Data PBO\SiakadSederhana\SiakadSederhana\obj\Debug\SiakadSederhana.FormTambahMahasiswa.resources
+D:\Data PBO\SiakadSederhana\SiakadSederhana\obj\Debug\SiakadSederhana.FormTambahMataKuliah.resources
+D:\Data PBO\SiakadSederhana\SiakadSederhana\obj\Debug\SiakadSederhana.Properties.Resources.resources
+D:\Data PBO\SiakadSederhana\SiakadSederhana\obj\Debug\SiakadSederhana.csproj.GenerateResource.cache
+D:\Data PBO\SiakadSederhana\SiakadSederhana\obj\Debug\SiakadSederhana.csproj.CoreCompileInputs.cache
+D:\Data PBO\SiakadSederhana\SiakadSederhana\obj\Debug\SiakadSederhana.exe
+D:\Data PBO\SiakadSederhana\SiakadSederhana\obj\Debug\SiakadSederhana.pdb
+D:\Data PBO\SiakadSederhana\SiakadSederhana\obj\Debug\SiakadSederhana.FormSemester.resources
+D:\Data PBO\SiakadSederhana\SiakadSederhana\obj\Debug\SiakadSederhana.FormTambahSemester.resources
+D:\Data PBO\SiakadSederhana\SiakadSederhana\obj\Debug\SiakadSederhana.FormNilai.resources
+D:\Data PBO\SiakadSederhana\SiakadSederhana\obj\Debug\SiakadSederhana.FormTambahNilai.resources
+C:\Users\Aldo Walo\Desktop\SiakadSederhana\SiakadSederhana\obj\Debug\SiakadSederhana.csproj.AssemblyReference.cache
+C:\Users\Aldo Walo\Desktop\SiakadSederhana\SiakadSederhana\obj\Debug\UAS_SIAKAD.MainForm.resources
+C:\Users\Aldo Walo\Desktop\SiakadSederhana\SiakadSederhana\obj\Debug\SiakadSederhana.FormMahasiswa.resources
+C:\Users\Aldo Walo\Desktop\SiakadSederhana\SiakadSederhana\obj\Debug\SiakadSederhana.FormMataKuliah.resources
+C:\Users\Aldo Walo\Desktop\SiakadSederhana\SiakadSederhana\obj\Debug\SiakadSederhana.FormNilai.resources
+C:\Users\Aldo Walo\Desktop\SiakadSederhana\SiakadSederhana\obj\Debug\SiakadSederhana.FormSemester.resources
+C:\Users\Aldo Walo\Desktop\SiakadSederhana\SiakadSederhana\obj\Debug\SiakadSederhana.FormTambahMahasiswa.resources
+C:\Users\Aldo Walo\Desktop\SiakadSederhana\SiakadSederhana\obj\Debug\SiakadSederhana.FormTambahMataKuliah.resources
+C:\Users\Aldo Walo\Desktop\SiakadSederhana\SiakadSederhana\obj\Debug\SiakadSederhana.FormTambahNilai.resources
+C:\Users\Aldo Walo\Desktop\SiakadSederhana\SiakadSederhana\obj\Debug\SiakadSederhana.FormTambahSemester.resources
+C:\Users\Aldo Walo\Desktop\SiakadSederhana\SiakadSederhana\obj\Debug\SiakadSederhana.Properties.Resources.resources
+C:\Users\Aldo Walo\Desktop\SiakadSederhana\SiakadSederhana\obj\Debug\SiakadSederhana.csproj.GenerateResource.cache
+C:\Users\Aldo Walo\Desktop\SiakadSederhana\SiakadSederhana\obj\Debug\SiakadSederhana.csproj.CoreCompileInputs.cache
+C:\Users\Aldo Walo\Desktop\SiakadSederhana\SiakadSederhana\bin\Debug\SiakadSederhana.exe.config
+C:\Users\Aldo Walo\Desktop\SiakadSederhana\SiakadSederhana\bin\Debug\SiakadSederhana.exe
+C:\Users\Aldo Walo\Desktop\SiakadSederhana\SiakadSederhana\bin\Debug\SiakadSederhana.pdb
+C:\Users\Aldo Walo\Desktop\SiakadSederhana\SiakadSederhana\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\Aldo Walo\Desktop\SiakadSederhana\SiakadSederhana\obj\Debug\SiakadSederhana.csproj.CopyComplete
+C:\Users\Aldo Walo\Desktop\SiakadSederhana\SiakadSederhana\obj\Debug\SiakadSederhana.exe
+C:\Users\Aldo Walo\Desktop\SiakadSederhana\SiakadSederhana\obj\Debug\SiakadSederhana.pdb
+C:\Users\Aldo Walo\Desktop\SiakadSederhana\SiakadSederhana\bin\Debug\FontAwesome.Sharp.Material.dll
+D:\PBO Rano\SiakadSederhana\SiakadSederhana\bin\Debug\SiakadSederhana.exe.config
+D:\PBO Rano\SiakadSederhana\SiakadSederhana\bin\Debug\SiakadSederhana.exe
+D:\PBO Rano\SiakadSederhana\SiakadSederhana\bin\Debug\SiakadSederhana.pdb
+D:\PBO Rano\SiakadSederhana\SiakadSederhana\bin\Debug\FontAwesome.Sharp.dll
+D:\PBO Rano\SiakadSederhana\SiakadSederhana\bin\Debug\FontAwesome.Sharp.Material.dll
+D:\PBO Rano\SiakadSederhana\SiakadSederhana\obj\Debug\SiakadSederhana.csproj.AssemblyReference.cache
+D:\PBO Rano\SiakadSederhana\SiakadSederhana\obj\Debug\UAS_SIAKAD.MainForm.resources
+D:\PBO Rano\SiakadSederhana\SiakadSederhana\obj\Debug\SiakadSederhana.FormMahasiswa.resources
+D:\PBO Rano\SiakadSederhana\SiakadSederhana\obj\Debug\SiakadSederhana.FormMataKuliah.resources
+D:\PBO Rano\SiakadSederhana\SiakadSederhana\obj\Debug\SiakadSederhana.FormNilai.resources
+D:\PBO Rano\SiakadSederhana\SiakadSederhana\obj\Debug\SiakadSederhana.FormSemester.resources
+D:\PBO Rano\SiakadSederhana\SiakadSederhana\obj\Debug\SiakadSederhana.FormTambahMahasiswa.resources
+D:\PBO Rano\SiakadSederhana\SiakadSederhana\obj\Debug\SiakadSederhana.FormTambahMataKuliah.resources
+D:\PBO Rano\SiakadSederhana\SiakadSederhana\obj\Debug\SiakadSederhana.FormTambahNilai.resources
+D:\PBO Rano\SiakadSederhana\SiakadSederhana\obj\Debug\SiakadSederhana.FormTambahSemester.resources
+D:\PBO Rano\SiakadSederhana\SiakadSederhana\obj\Debug\SiakadSederhana.Properties.Resources.resources
+D:\PBO Rano\SiakadSederhana\SiakadSederhana\obj\Debug\SiakadSederhana.csproj.GenerateResource.cache
+D:\PBO Rano\SiakadSederhana\SiakadSederhana\obj\Debug\SiakadSederhana.csproj.CoreCompileInputs.cache
+D:\PBO Rano\SiakadSederhana\SiakadSederhana\obj\Debug\SiakadSederhana.csproj.CopyComplete
+D:\PBO Rano\SiakadSederhana\SiakadSederhana\obj\Debug\SiakadSederhana.exe
+D:\PBO Rano\SiakadSederhana\SiakadSederhana\obj\Debug\SiakadSederhana.pdb
